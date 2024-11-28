@@ -1,0 +1,8 @@
+servlet\PlayerServlet.class
+dao\PlayerDAO.class
+model\PlayerIndex.class
+model\Indexer.class
+com\mycompany\mavenproject1\JakartaRestConfiguration.class
+util\DBUtil.class
+model\Player.class
+com\mycompany\mavenproject1\resources\JakartaEE10Resource.class
